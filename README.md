@@ -13,23 +13,23 @@ Compact and curved design for better movement and stress distribution
 
 # Preview
 
-<img width="795" height="727" alt="Screenshot 2025-07-21 133912" src="https://github.com/user-attachments/assets/a5f44d76-ef3d-4531-8398-22a8d950d34d" />
+<img width="777" height="756" alt="Screenshot 2025-07-23 103915" src="https://github.com/user-attachments/assets/08edbc29-a328-429e-95c1-27f5494f82c6" />
 
 Below are the images of the bracket from multiple views:
 
 Top View:
 
-<img width="646" height="665" alt="Screenshot 2025-07-21 134030" src="https://github.com/user-attachments/assets/be6721df-24f3-4fe2-9e99-9b619c3925cc" />
+<img width="582" height="532" alt="Screenshot 2025-07-23 103850" src="https://github.com/user-attachments/assets/b1167e73-7f0f-4eec-a7f9-beea0a08a429" />
 
 Bottom View:
 
-<img width="797" height="720" alt="Screenshot 2025-07-21 134018" src="https://github.com/user-attachments/assets/6830e614-5513-48e5-b8c3-b52b2187621e" />
+<img width="783" height="738" alt="Screenshot 2025-07-23 103837" src="https://github.com/user-attachments/assets/43851a95-b49c-4b80-8192-2d1aa46b2c92" />
 
 Right View:
 
-<img width="605" height="814" alt="Screenshot 2025-07-21 133954" src="https://github.com/user-attachments/assets/3f71ca10-da22-4dea-a44e-d6f638ea38ac" />
+<img width="718" height="783" alt="Screenshot 2025-07-23 103819" src="https://github.com/user-attachments/assets/6f48c386-ede9-458f-ae3b-70b1b0130f58" />
 
 Left View:
 
-<img width="577" height="735" alt="Screenshot 2025-07-21 133922" src="https://github.com/user-attachments/assets/32cffb42-6764-4535-9263-ecf6a68f2f01" />
+<img width="749" height="875" alt="Screenshot 2025-07-23 103905" src="https://github.com/user-attachments/assets/387ee3e9-41b0-4ab0-b16b-f34d97e538ce" />
 
